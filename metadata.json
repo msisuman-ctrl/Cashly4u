@@ -1,0 +1,6 @@
+{
+  "name": "Cashly",
+  "description": "একটি সুরক্ষিত ওয়েবভিউ অ্যাপ যা সহজে ব্যবহার ও দ্রুত লোড করার সুবিধাযুক্ত এবং এতে এডমব বিজ্ঞাপন ও ডার্ক মোড রয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
